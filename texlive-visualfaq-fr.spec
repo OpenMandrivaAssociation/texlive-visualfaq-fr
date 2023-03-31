@@ -1,6 +1,6 @@
 Name:		texlive-visualfaq-fr
 Version:	61420
-Release:	1
+Release:	2
 Summary:	FAQ LaTeX visuelle francophone
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/visualfaq-fr

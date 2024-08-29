@@ -1,5 +1,5 @@
 Name:		texlive-visualfaq-fr
-Version:	67718
+Version:	71053
 Release:	1
 Summary:	FAQ LaTeX visuelle francophone
 Group:		Publishing

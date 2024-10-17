@@ -3,7 +3,7 @@ Version:	71053
 Release:	1
 Summary:	FAQ LaTeX visuelle francophone
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/visualfaq-fr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/visualfaq-fr
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/visualfaq-fr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/visualfaq-fr.doc.r%{version}.tar.xz
